@@ -1,0 +1,12 @@
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/bin/Debug/netcoreapp3.1/CoursNetCore1Myriam.deps.json
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/bin/Debug/netcoreapp3.1/CoursNetCore1Myriam.runtimeconfig.json
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/bin/Debug/netcoreapp3.1/CoursNetCore1Myriam.runtimeconfig.dev.json
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/bin/Debug/netcoreapp3.1/CoursNetCore1Myriam.dll
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/bin/Debug/netcoreapp3.1/CoursNetCore1Myriam.pdb
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.csprojAssemblyReference.cache
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.AssemblyInfoInputs.cache
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.AssemblyInfo.cs
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.csproj.CoreCompileInputs.cache
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.dll
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.pdb
+/Users/adrienmechin/Projects/CoursNetCore1Myriam/CoursNetCore1Myriam/obj/Debug/netcoreapp3.1/CoursNetCore1Myriam.genruntimeconfig.cache
