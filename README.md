@@ -12,7 +12,7 @@ OrderDate
 2 méthodes
 public Order Retrieve(int orderId)
 public bool Save()
-public bool Validate()
+public bool Validate() -> verifier OrderDate != null
 
 Classe OrderItem
 - 2 constructeurs
