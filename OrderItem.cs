@@ -46,12 +46,12 @@ namespace cours1
             return true;
         }
 
-        public bool Validate()
+        public bool Validate(int quantity, int productId, T purchasePrice)
         {
             var isValid = true;
-            if(Quantity>=0) isValid = false;
-            if (ProductId >= 0) isValid = false;
-            if (PurchasePrice != null) isValid = false;
+            if(quantity>=0) isValid = false;
+            if (productId >= 0) isValid = false;
+            if (purchasePrice != null) isValid = false;
             return isValid;
         }
              
