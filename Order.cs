@@ -36,10 +36,10 @@ namespace cours1
             return true;
         }
             
-       public bool Validate()
+       public bool Validate(DateTime orderDate)
         {
             var isValid = true; 
-            if (OrderDate == null) isValid = false;
+            if (orderDate == null) isValid = false;
             return isValid;
         }
 
