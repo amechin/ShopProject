@@ -13,7 +13,7 @@ namespace cours1
 
         }
 
-        public OrderItem(int orderItemId, int productId , T purchasePrice, int quantity)
+        public OrderItem(int orderItemId, int productId , int? purchasePrice, int quantity)
         {
             OrderItemId = orderItemId;
             ProductId = productId;
@@ -32,7 +32,7 @@ namespace cours1
             get;
             private set;
         }
-        public T PurchasePrice { get; set; }
+        public int? PurchasePrice { get; set; }
         public int Quantity { get; set; }
 
         //Méthodes:
@@ -46,7 +46,7 @@ namespace cours1
             return true;
         }
 
-        public bool Validate(int quantity, int productId, T purchasePrice)
+        public bool Validate(int quantity, int productId, int? purchasePrice)
         {
             var isValid = true;
             if(quantity>=0) isValid = false;
